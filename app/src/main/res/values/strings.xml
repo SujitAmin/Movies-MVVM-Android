@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">in10</string>
+    <string name="default_date">Dec 20, 2019</string>
+    <string name="error_message">Error Message</string>
+    <string name="grid">grid</string>
+    <string name="settings">settings</string>
+    <string name="defaultText">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="zero_percent">0%</string>
+    <string name="title_of_app">Now Playing</string>
+    <string name="connection_problem_error">Connection Problem!!</string>
+
+    
+</resources>
